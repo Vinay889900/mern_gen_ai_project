@@ -82,9 +82,3 @@ Make sure you have the following installed:
 
    * Frontend: [http://localhost:5173](http://localhost:5173)
    * Backend Endpoint: [http://localhost:3000/ai/get-review](http://localhost:3000/ai/get-review)
-
----
-
-This setup provides a strong foundation for building intelligent, fast, and scalable AI applications. You can easily extend it for use cases like customer support bots, review generators, or educational assistants.
-
-Let me know if you’d like a README.md version of this!
